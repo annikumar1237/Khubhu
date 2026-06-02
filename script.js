@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const gallery = document.getElementById('gallery');
-    const totalPhotos = 50; // Bhai yahan jitni photos hain wo number daal do
+    const totalPhotos = 2; // Bhai yahan jitni photos hain wo number daal do
 
     // 1. Yeh loop automatic 50 photos generate karega
     for (let i = 1; i <= totalPhotos; i++) {
